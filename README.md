@@ -5,7 +5,7 @@ Nodejs demo app for running a cloud native Tekton Pipeline.
 This app displays a random picture of a cat. 
 
 ## Build and run Nodejs apps
-```bash
+```bashss
 npm install
 node app.js
 ```
