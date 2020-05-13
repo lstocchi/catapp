@@ -1,6 +1,6 @@
 # CatApp
 
-Nodejs demo app for running a cloud native Tekton Pipeline.dsda
+Nodejs demo app for running a cloud native Tekton Pipeline.dsdac
 
 This app displays a random picture of a cat. 
 
